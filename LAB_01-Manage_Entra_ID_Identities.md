@@ -45,5 +45,12 @@
 
 
 ## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+## Screenshots
+![Screenshot 1](images/"Screenshot 2024-06-23 100021.png")
+![Screenshot 2](images/"Screenshot 2024-06-23 100920.png")
+![Screenshot 3](images/"Screenshot 2024-06-23 101047.png")
+![Screenshot 4](images/"Screenshot 2024-06-23 101225.png")
+![Screenshot 5](images/"Screenshot 2024-06-23 101422.png")
+![Screenshot 6](images/"Screenshot 2024-06-23 102058.png")
+![Screenshot 7](images/"Screenshot 2024-06-23 102210.png")
+![Screenshot 8](images/"Screenshot 2024-06-23 102223.png")
