@@ -43,8 +43,6 @@
 - Reviewed the membership list and ensured both `az104-user1` and the invited guest user were properly added as members.
 - Noted the flexibility in managing group settings, including expiration and naming policies, for future reference..
 
-
-## Screenshots
 ## Screenshots
 ![Screenshot 1](images/"Screenshot 2024-06-23 100021.png")
 ![Screenshot 2](images/"Screenshot 2024-06-23 100920.png")
